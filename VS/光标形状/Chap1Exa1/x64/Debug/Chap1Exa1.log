@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\孙少杰\source\repos\windows\chap1exa1\chap1exa1\main.cpp(22): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+c:\users\孙少杰\source\repos\windows\chap1exa1\chap1exa1\main.cpp(82): warning C4244: “return”: 从“ATOM”转换到“BOOLEAN”，可能丢失数据
+  Chap1Exa1.vcxproj -> C:\Users\孙少杰\source\repos\Windows\Chap1Exa1\x64\Debug\Chap1Exa1.exe
